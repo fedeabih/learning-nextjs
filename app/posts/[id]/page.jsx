@@ -1,4 +1,4 @@
-import PostPages from "../page"
+import PostPages from "@/app/posts/page"
 import { Suspense } from "react"
 
 async function loadPost(id){
